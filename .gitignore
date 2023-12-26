@@ -1,5 +1,4 @@
 test-notebook.ipynb
 first-copy.ipynb
-.ipynb_checkpoints/*
-.git/*
-.idea/*
+.ipynb_checkpoints
+.idea
